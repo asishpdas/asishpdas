@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @asishpdas
-- 👀 I’m interested in Data Science and PYthon
-- 🌱 I’m currently learning Statistics and python
-- 💞️ I’m looking to collaborate on Projects on Data science
+- 👋 Hi, I’m Asish, experienced data engineer with close to 4 years of experience in the industry. I leverage modern tools like Azure Data Factory, databricks, PySpark, SparkSQl to extract, tranform and load the data to make anaylytics ready.
 - 📫 You can reach me on asishpdas@gmail.com or linkedin: https://www.linkedin.com/in/asish-das-90b603202/
 
 <!---
